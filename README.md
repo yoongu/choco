@@ -12,3 +12,4 @@ choco install -y microsoft-build-tools
 choco install -y jre8
 choco install -y silverlight5sdk
 choco install -y notepadplusplus
+choco install -y sharpkeys
