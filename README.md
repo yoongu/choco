@@ -1,7 +1,7 @@
 # choco
 
 ```
-choco install -y python --version=3.4.3.20150501
+choco install -y python
 choco install -y googlechrome
 choco install -y firefox --version=54.0
 choco install -y cmdermini
