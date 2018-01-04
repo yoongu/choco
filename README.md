@@ -1,5 +1,6 @@
 # choco
 
+```
 choco install -y python --version=3.4.3.20150501
 choco install -y googlechrome
 choco install -y firefox --version=54.0
@@ -13,3 +14,5 @@ choco install -y jre8
 choco install -y silverlight5sdk
 choco install -y notepadplusplus
 choco install -y sharpkeys
+choco install -y 7-taskbar-tweaker
+```
